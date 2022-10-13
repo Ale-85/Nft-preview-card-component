@@ -82,3 +82,8 @@ hr {
   color: hsl(178, 100%, 50%);
   cursor: pointer;
 }
+
+.attribution {
+  color: white;
+}
+  
